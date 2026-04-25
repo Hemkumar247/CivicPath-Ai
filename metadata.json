@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: CivicPath: The First-Time Voter’s GPS",
+  "description": "A clean, modern guide to help first-time voters navigate the election process with confidence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
